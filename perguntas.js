@@ -12,7 +12,7 @@ criaCartao(
 criaCartao(
     'Maquiagem',
     'Como aplicar sombra nos olhos?',
-    'Aplique sombra clara na parte interna do olho, sombra média no meio e sombra escura na parte externa, blendendo bem')
+    'Aplique sombra clara na parte interna do olho, sombra média no meio e sombra escura na parte externa, blendendo bem'
 )
 criaCartao(
     'Maquiagem',
